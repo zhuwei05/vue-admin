@@ -24,34 +24,22 @@
 * Powered by [Vue][] & [Bulma][]
 * Based on the awesome third-party [libraries](doc/dependencies.md)
 
-## Build Setup
+## [Backers](backers.md)
 
-``` bash
-# install dependencies
-npm install
+Its ongoing development is made possible thanks to the support by these awesome backers. If you'd like to join them, check out [Vue Admin & Vue Bulma](https://www.patreon.com/_fundon)'s Patreon campaign.
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## [Development](doc/development.md)
 
 ## Badaggs
 
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 [![Gitter](https://badges.gitter.im/fundon/vue-admin.svg)](https://gitter.im/fundon/vue-admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+---
+
+> [fundon.me](https://fundun.me) &nbsp;&middot;&nbsp;
+> GitHub [@fundon](https://github.com/fundon) &nbsp;&middot;&nbsp;
+> Twitter [@_fundon](https://twitter.com/_fundon)
 
 
 [Live Demo]: https://vue-admin.fundon.me/
